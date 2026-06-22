@@ -1,0 +1,11 @@
+
+path: D:\MachineLearning\fruit_freshness_project\fruit_freshness_project\dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: AppleFresh
+  1: AppleSpoiled
+  2: BananaFresh
+  3: BananaSpoiled

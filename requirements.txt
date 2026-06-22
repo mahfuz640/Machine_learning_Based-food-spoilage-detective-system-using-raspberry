@@ -1,0 +1,6 @@
+pip install ultralytics
+pip install streamlit
+pip install opencv-python
+pip install torch torchvision torchaudio
+pip install pandas
+pip install pillow
